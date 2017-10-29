@@ -73,7 +73,7 @@ public class menu {
             int pilih = input.nextInt();
             menu.menu(pilih);
         } else {
-            System.out.println(kalimat.error);
+            System.out.print(kalimat.error);
         }
     }
 }
