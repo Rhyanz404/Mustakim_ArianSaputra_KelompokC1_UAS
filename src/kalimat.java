@@ -4,7 +4,7 @@ public class kalimat {
             + "\n"
             + "Aplikasi Transfortasi Umum"
             + "\nMenu :"
-            + "\n1. Pilih Transporatsi"
+            + "\n1. Pilih Tr ansporatsi"
             + "\n2. Jadwal Istirahat"
             + "\n3. About US"
             + "\n4. Help"
